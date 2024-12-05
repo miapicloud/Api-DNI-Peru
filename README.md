@@ -8,12 +8,12 @@
 
 ## Cómo Usar
 
-1. Regístrate y obtén tu token aquí: [www.miapi.cloud](#)
+1. Regístrate y obtén tu token aquí: [https://miapi.cloud/#demobox](#)
 
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/api-dni-peru.git
+   git clone https://github.com/miapicloud/Api-DNI-Peru.git
 
 
 #### **Licencia:**
